@@ -22,7 +22,7 @@
 
 
 <p >
-  <img src="./img/html5.svg" alt="HTML5" width="60" height="60" />
+  <img src="./img/html5.svg" alt="HTML5" width="60" height="98" />
   <img src="./img/css3.svg" alt="CSS3" width="60" height="60" />
   <img src="./img/js.svg" alt="JavaScript" width="60" height="60" />
   <img src="./img/c.svg" alt="C" width="60" height="60" />
