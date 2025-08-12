@@ -1,3 +1,10 @@
+## 📈 My GitHub Contributions  
+<p align="center">
+  <img src="./img/contributions.png" alt="GitHub Contributions Graph" />
+</p>
+
+---
+
 ## 🛠 Tech Stack  
 
 **Languages & Frameworks:**  
