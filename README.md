@@ -26,12 +26,12 @@
   <img src="./img/html5.svg" alt="HTML5" height="50" />
   <img src="./img/css3.svg" alt="CSS3" height="50" />
   <img src="./img/js.svg" alt="JavaScript" height="50" />
-  <img src="./img/react.svg" alt="React" height="50" />
-  <img src="./img/nodejs.svg" alt="Node.js" height="50" />
-  <img src="./img/python.svg" alt="Python" height="50" />
+  <img src="https://raw.githubusercontent.com/reactjs/reactjs.org/main/src/icons/logo.svg" alt="React" height="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" height="50" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" alt="Python" height="50" />
   <img src="./img/c.svg" alt="C" height="50" />
   <img src="./img/c++.svg" alt="C++" height="50" />
-  <img src="./img/bootstrap.svg" alt="Bootstrap" height="50" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bootstrap.svg" alt="Bootstrap" height="50" />
   <img src="./img/tailwind.svg" alt="TailwindCSS" height="50" />
 </p>
 
@@ -43,10 +43,10 @@
   <img src="./img/wireshark.svg" alt="Wireshark" height="50" />
   <img src="./img/nmap.svg" alt="Nmap" height="50" />
   <img src="./img/metasploit.svg" alt="Metasploit" height="50" />
-  <img src="./img/burpsuite.svg" alt="Burp Suite" height="50" />
-  <img src="./img/zap.svg" alt="OWASP ZAP" height="50" />
-  <img src="./img/hydra.svg" alt="Hydra" height="50" />
-  <img src="./img/aircrack.svg" alt="Aircrack-ng" height="50" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" alt="Burp Suite" height="50" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/zaproxy.svg" alt="OWASP ZAP" height="50" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/thc-hydra.svg" alt="Hydra" height="50" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/aircrack-ng.svg" alt="Aircrack-ng" height="50" />
 </p>
 
 **Tools & Platforms:**  
@@ -54,12 +54,12 @@
   <img src="./img/git.svg" alt="Git" height="50" />
   <img src="./img/github.svg" alt="GitHub" height="50" />
   <img src="./img/vscode.svg" alt="VS Code" height="50" />
-  <img src="./img/docker.svg" alt="Docker" height="50" />
-  <img src="./img/postman.svg" alt="Postman" height="50" />
-  <img src="./img/figma.svg" alt="Figma" height="50" />
-  <img src="./img/mysql.svg" alt="MySQL" height="50" />
-  <img src="./img/mongodb.svg" alt="MongoDB" height="50" />
-  <img src="./img/virtualbox.svg" alt="VirtualBox" height="50" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg" alt="Docker" height="50" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postman.svg" alt="Postman" height="50" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/figma.svg" alt="Figma" height="50" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mysql.svg" alt="MySQL" height="50" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mongodb.svg" alt="MongoDB" height="50" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/virtualbox.svg" alt="VirtualBox" height="50" />
 </p>
 
 ---
