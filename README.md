@@ -61,15 +61,33 @@
 
 **Networking & Cybersecurity:**  
 <p>
-  <img src="./img/packettracer.svg" alt="Packet Tracer" height="50" />
-  <img src="./img/linux.svg" alt="Linux" height="50" />
-  <img src="./img/kalilinux.svg" alt="Kali Linux" height="50" />
-  <img src="./img/wireshark.svg" alt="Wireshark" height="50" />
-  <img src="./img/nmap.svg" alt="Nmap" height="50" />
-  <img src="./img/metasploit.svg" alt="Metasploit" height="50" />
-  <img src="./img/owaspzap.png" alt="OWASP ZAP" height="50" />
-  <img src="./img/hydra.jpg" alt="OWASP ZAP" height="50" />
-  <img src="./img/Aircrackng.jpg" alt="OWASP ZAP" height="50" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="./img/packettracer.svg" alt="HTML5" height="50" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="./img/linux.svg" alt="HTML5" height="50" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="./img/kalilinux.svg" alt="HTML5" height="50" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="./img/wireshark.svg" alt="HTML5" height="50" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="./img/nmap.svg" alt="HTML5" height="50" />
+  </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="./img/metasploit.svg" alt="HTML5" height="50" />
+  </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="./img/owaspzap.png" alt="HTML5" height="50" />
+  </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="./img/hydra.jpg" alt="HTML5" height="50" />
+  </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="./img/Aircrackng.jpg" alt="HTML5" height="50" />
+  </a>
 </p>
 
 **Tools & Platforms:**  
