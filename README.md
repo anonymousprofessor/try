@@ -54,7 +54,7 @@
  <a href="https://getbootstrap.com/" target="_blank">
     <img src="./img/bootstrap.svg" alt="HTML5" height="50" />
   </a>
- <a href="https://getbootstrap.com/" target="_blank">
+ <a href="https://tailwindcss.com/" target="_blank">
     <img src="./img/tailwind.svg" alt="HTML5" height="50" />
   </a>
 </p>
