@@ -14,6 +14,6 @@
   </a>&nbsp;&nbsp;
   
   <a href="https://www.linkedin.com/in/lakshayjofficial" target="_blank">
-    <img src="./img/link in.svg" alt="LinkedIn" title="LinkedIn" height="30" />
+    <img src="./img/Linkedin-Logo.png" alt="LinkedIn" title="LinkedIn" height="30" />
   </a>
 </p>
