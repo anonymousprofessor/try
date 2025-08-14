@@ -28,7 +28,7 @@
 
 **Languages & Frameworks:**  
 <p>
-  <a href="[https://developer.mozilla.org/en-US/docs/Web/HTML](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img src="./img/html5.svg" alt="HTML5" height="50" />
 </a>
   <img src="./img/css3.svg" alt="CSS3" height="50" />
