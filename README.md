@@ -30,7 +30,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="./img/html5.svg" alt="HTML5" height="50" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="./img/css3.svg" alt="HTML5" height="50" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
