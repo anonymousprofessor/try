@@ -43,7 +43,7 @@
     <img src="./img/nodejs.svg" alt="HTML5" height="50" />
   </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="./img/python.svg.svg" alt="HTML5" height="50" />
+    <img src="./img/python.svg" alt="HTML5" height="50" />
   </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="./img/c.svg" alt="HTML5" height="50" />
