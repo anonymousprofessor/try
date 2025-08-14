@@ -31,31 +31,28 @@
     <img src="./img/html5.svg" alt="HTML5" height="50" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="./img/html5.svg" alt="HTML5" height="50" />
+    <img src="./img/css3.svg" alt="HTML5" height="50" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="./img/html5.svg" alt="HTML5" height="50" />
+    <img src="./img/js.svg" alt="HTML5" height="50" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="./img/html5.svg" alt="HTML5" height="50" />
+    <img src="./img/nodejs-original.svg" alt="HTML5" height="50" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="./img/html5.svg" alt="HTML5" height="50" />
+    <img src="./img/python-original.svg" alt="HTML5" height="50" />
   </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="./img/html5.svg" alt="HTML5" height="50" />
+    <img src="./img/c.svg" alt="HTML5" height="50" />
   </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="./img/html5.svg" alt="HTML5" height="50" />
+    <img src="./img/c++.svg" alt="HTML5" height="50" />
   </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="./img/html5.svg" alt="HTML5" height="50" />
+    <img src="./img/bootstrap-plain.svg" alt="HTML5" height="50" />
   </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="./img/html5.svg" alt="HTML5" height="50" />
-  </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="./img/html5.svg" alt="HTML5" height="50" />
+    <img src="./img/tailwind.svg" alt="HTML5" height="50" />
   </a>
 </p>
 
