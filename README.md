@@ -22,7 +22,7 @@
 
 
 ## 📌 Featured Projects
-- **Personal Portfolio** – My main portfolio website showcasing my work and skills [**click here...**](https://your-portfolio-url.com) .  
+- **Personal Portfolio** – My main portfolio website showcasing my work and skills [**click here**](https://your-portfolio-url.com)   
 - **Demo Portfolio** – A sample portfolio project created to demonstrate web design and layout skills.  
 - **HTML Learning Repository** – A complete collection of HTML examples and explanations to learn HTML from scratch.  
 - **CSS Learning Repository** – A structured repository with CSS examples, layouts, and styling techniques.  
