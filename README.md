@@ -12,14 +12,20 @@
  🔹 Freelancing experience delivering **high-quality tech projects**.  
  🔹 Running **startup web projects** with a focus on innovation and real-world impact.  
 
----
+---**
 ## 📌 Featured Projects
 
-- [![](data:image/svg+xml;utf8,<svg%20xmlns='http://www.w3.org/2000/svg'%20width='520'%20height='28'%20viewBox='0%200%20520%2028'><text%20x='0'%20y='20'%20font-family='-apple-system,Segoe%20UI,Roboto,Helvetica,Arial'%20font-size='16'%20font-weight='700'%20fill='%23000'>Personal%20Portfolio</text></svg>)](https://your-portfolio-url.com) – My main portfolio website showcasing my work and skills.  
-- [![](data:image/svg+xml;utf8,<svg%20xmlns='http://www.w3.org/2000/svg'%20width='520'%20height='28'%20viewBox='0%200%20520%2028'><text%20x='0'%20y='20'%20font-family='-apple-system,Segoe%20UI,Roboto,Helvetica,Arial'%20font-size='16'%20font-weight='700'%20fill='%23000'>Demo%20Portfolio</text></svg>)](https://your-demo-portfolio.com) – A sample portfolio project created to demonstrate web design and layout skills.  
-- [![](data:image/svg+xml;utf8,<svg%20xmlns='http://www.w3.org/2000/svg'%20width='520'%20height='28'%20viewBox='0%200%20520%2028'><text%20x='0'%20y='20'%20font-family='-apple-system,Segoe%20UI,Roboto,Helvetica,Arial'%20font-size='16'%20font-weight='700'%20fill='%23000'>HTML%20Learning%20Repository</text></svg>)](https://github.com/yourname/html-learning-repo) – A complete collection of HTML examples and explanations to learn HTML from scratch.  
-- [![](data:image/svg+xml;utf8,<svg%20xmlns='http://www.w3.org/2000/svg'%20width='520'%20height='28'%20viewBox='0%200%20520%2028'><text%20x='0'%20y='20'%20font-family='-apple-system,Segoe%20UI,Roboto,Helvetica,Arial'%20font-size='16'%20font-weight='700'%20fill='%23000'>CSS%20Learning%20Repository</text></svg>)](https://github.com/yourname/css-learning-repo) – A structured repository with CSS examples, layouts, and styling techniques.
+- [**Personal Portfolio**](https://your-portfolio-url.com) – My main portfolio website showcasing my work and skills.  
+- [**Demo Portfolio**](https://your-demo-portfolio.com) – A sample portfolio project created to demonstrate web design and layout skills.  
+- [**HTML Learning Repository**](https://github.com/yourname/html-learning-repo) – A complete collection of HTML examples and explanations to learn HTML from scratch.  
+- [**CSS Learning Repository**](https://github.com/yourname/css-learning-repo) – A structured repository with CSS examples, layouts, and styling techniques.
 
+**## 📌 Featured Projects
+
+- [**Personal Portfolio**](https://your-portfolio-url.com) – My main portfolio website showcasing my work and skills.  
+- [**Demo Portfolio**](https://your-demo-portfolio.com) – A sample portfolio project created to demonstrate web design and layout skills.  
+- [**HTML Learning Repository**](https://github.com/yourname/html-learning-repo) – A complete collection of HTML examples and explanations to learn HTML from scratch.  
+- [**CSS Learning Repository**](https://github.com/yourname/css-learning-repo) – A structured repository with CSS examples, layouts, and styling techniques.
 
 ## 🛠 Tech Stack  
 
