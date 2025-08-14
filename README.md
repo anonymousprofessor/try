@@ -52,7 +52,7 @@
     <img src="./img/c++.svg" alt="HTML5" height="50" />
   </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="./img/bootstrap-plain.svg" alt="HTML5" height="50" />
+    <img src="./img/bootstrap.svg" alt="HTML5" height="50" />
   </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="./img/tailwind.svg" alt="HTML5" height="50" />
