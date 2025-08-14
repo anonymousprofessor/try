@@ -37,7 +37,7 @@
     <img src="./img/js.svg" alt="HTML5" height="50" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="./img/[nodejs-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)" alt="HTML5" height="50" />
+    <img src="./img/reactjs.svg" alt="HTML5" height="50" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="./img/python-original.svg" alt="HTML5" height="50" />
