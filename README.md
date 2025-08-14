@@ -23,51 +23,25 @@
 - [**CSS Learning Repository**](https://github.com/yourname/css-learning-repo) – A structured repository with CSS examples, layouts, and styling techniques.
 
 ---
-
 ## 🛠 Tech Stack  
 
 **Languages & Frameworks:**  
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="./img/html5.svg" alt="HTML5" height="50" />
-</a>
-<p>
+    <img src="./img/html5.svg" alt="HTML5" height="50" />
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="./img/html5.svg" alt="HTML5" height="50" />
-</a>  
- 
- <p>
+    <img src="./img/html5.svg" alt="HTML5" height="50" />
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="./img/html5.svg" alt="HTML5" height="50" />
-</a>
-  <p>
+    <img src="./img/html5.svg" alt="HTML5" height="50" />
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="./img/html5.svg" alt="HTML5" height="50" />
-</a>
-  <p>
+    <img src="./img/html5.svg" alt="HTML5" height="50" />
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="./img/html5.svg" alt="HTML5" height="50" />
-</a>
-  <p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="./img/html5.svg" alt="HTML5" height="50" />
-</a>
-  <p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="./img/html5.svg" alt="HTML5" height="50" />
-</a>
-  <p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="./img/html5.svg" alt="HTML5" height="50" />
-</a>
-  <p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="./img/html5.svg" alt="HTML5" height="50" />
-</a>
-  <p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="./img/html5.svg" alt="HTML5" height="50" />
-</a>
+    <img src="./img/html5.svg" alt="HTML5" height="50" />
+  </a>
 </p>
 
 **Networking & Cybersecurity:**  
