@@ -13,11 +13,12 @@
  🔹 Running **startup web projects** with a focus on innovation and real-world impact.  
 
 ---
+## 📌 Featured Projects
+- <a href="https://your-portfolio-url.com"><strong>Personal Portfolio</strong></a> – My main portfolio website showcasing my work and skills.  
+- <a href="https://your-demo-portfolio.com"><strong>Demo Portfolio</strong></a> – A sample portfolio project created to demonstrate web design and layout skills.  
+- <a href="https://github.com/yourname/html-learning-repo"><strong>HTML Learning Repository</strong></a> – A complete collection of HTML examples and explanations to learn HTML from scratch.  
+- <a href="https://github.com/yourname/css-learning-repo"><strong>CSS Learning Repository</strong></a> – A structured repository with CSS examples, layouts, and styling techniques.
 
-## 📈 Contribution Graph  
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luckyyofficial&bg_color=ffffff&color=000000&line=00b300&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
 
 ## 🛠 Tech Stack  
 
