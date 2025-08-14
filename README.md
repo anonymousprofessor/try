@@ -92,15 +92,33 @@
 
 **Tools & Platforms:**  
 <p>
-  <img src="./img/git.svg" alt="Git" height="50" />
-  <img src="./img/github.svg" alt="GitHub" height="50" />
-  <img src="./img/vscode.svg" alt="VS Code" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/postman.svg" alt="Postman" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/figma.svg" alt="Figma" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/virtualbox.svg" alt="VirtualBox" height="50" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="./img/packettracer.svg" alt="HTML5" height="50" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="./img/linux.svg" alt="HTML5" height="50" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="./img/kalilinux.svg" alt="HTML5" height="50" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="./img/wireshark.svg" alt="HTML5" height="50" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="./img/nmap.svg" alt="HTML5" height="50" />
+  </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="./img/metasploit.svg" alt="HTML5" height="50" />
+  </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="./img/owaspzap.png" alt="HTML5" height="50" />
+  </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="./img/hydra.jpg" alt="HTML5" height="50" />
+  </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="./img/Aircrackng.jpg" alt="HTML5" height="50" />
+  </a>
 </p>
 
 ---
