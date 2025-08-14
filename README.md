@@ -39,22 +39,22 @@
   <a href="https://react.dev/" target="_blank">
     <img src="./img/reactjs.svg" alt="HTML5" height="50" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <a href="https://nodejs.org/en" target="_blank">
     <img src="./img/nodejs.svg" alt="HTML5" height="50" />
   </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+ <a href="https://www.python.org" target="_blank">
     <img src="./img/python.svg" alt="HTML5" height="50" />
   </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+ <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img src="./img/c.svg" alt="HTML5" height="50" />
   </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+ <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank">
     <img src="./img/c++.svg" alt="HTML5" height="50" />
   </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+ <a href="https://getbootstrap.com/" target="_blank">
     <img src="./img/bootstrap.svg" alt="HTML5" height="50" />
   </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+ <a href="https://getbootstrap.com/" target="_blank">
     <img src="./img/tailwind.svg" alt="HTML5" height="50" />
   </a>
 </p>
