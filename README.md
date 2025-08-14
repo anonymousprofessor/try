@@ -93,31 +93,31 @@
 **Tools & Platforms:**  
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="./img/packettracer.svg" alt="HTML5" height="50" />
+    <img src="./img/git.svg" alt="HTML5" height="50" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="./img/linux.svg" alt="HTML5" height="50" />
+    <img src="./img/github.svg" alt="HTML5" height="50" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="./img/kalilinux.svg" alt="HTML5" height="50" />
+    <img src="./img/vscode.svg" alt="HTML5" height="50" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="./img/wireshark.svg" alt="HTML5" height="50" />
+    <img src="./img/dock.svg" alt="HTML5" height="50" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="./img/nmap.svg" alt="HTML5" height="50" />
+    <img src="./img/blackman.svg" alt="HTML5" height="50" />
   </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="./img/metasploit.svg" alt="HTML5" height="50" />
+    <img src="./img/smallcircle.svg" alt="HTML5" height="50" />
   </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="./img/owaspzap.png" alt="HTML5" height="50" />
+    <img src="./img/whale.png" alt="HTML5" height="50" />
   </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="./img/hydra.jpg" alt="HTML5" height="50" />
+    <img src="./img/leaf.jpg" alt="HTML5" height="50" />
   </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="./img/Aircrackng.jpg" alt="HTML5" height="50" />
+    <img src="./img/vb.jpg" alt="HTML5" height="50" />
   </a>
 </p>
 
