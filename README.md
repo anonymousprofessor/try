@@ -31,15 +31,43 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img src="./img/html5.svg" alt="HTML5" height="50" />
 </a>
-  <img src="./img/css3.svg" alt="CSS3" height="50" />
-  <img src="./img/js.svg" alt="JavaScript" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" />
-  <img src="./img/c.svg" alt="C" height="50" />
-  <img src="./img/c++.svg" alt="C++" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="50" />
-  <img src="./img/tailwind.svg" alt="TailwindCSS" height="50" />
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="./img/html5.svg" alt="HTML5" height="50" />
+</a>  
+ 
+ <p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="./img/html5.svg" alt="HTML5" height="50" />
+</a>
+  <p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="./img/html5.svg" alt="HTML5" height="50" />
+</a>
+  <p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="./img/html5.svg" alt="HTML5" height="50" />
+</a>
+  <p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="./img/html5.svg" alt="HTML5" height="50" />
+</a>
+  <p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="./img/html5.svg" alt="HTML5" height="50" />
+</a>
+  <p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="./img/html5.svg" alt="HTML5" height="50" />
+</a>
+  <p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="./img/html5.svg" alt="HTML5" height="50" />
+</a>
+  <p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="./img/html5.svg" alt="HTML5" height="50" />
+</a>
 </p>
 
 **Networking & Cybersecurity:**  
